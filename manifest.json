@@ -1,0 +1,16 @@
+{
+  "domain": "hai4goe",
+  "name": "HAI4GOE",
+  "codeowners": [
+    "@CHC0815"
+  ],
+  "version": "0.1.0",
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/hai4goe",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
